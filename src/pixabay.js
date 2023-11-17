@@ -3,7 +3,7 @@ import Notiflix from 'notiflix';
 
 export async function fetchImages(searchQuery, page = 1) {
   const params = {
-    key: 'Y40716198-03382858467f695f040d9065f',
+    key: '40716198-03382858467f695f040d9065f',
     q: searchQuery,
     image_type: 'photo',
     orientation: 'horizontal',
