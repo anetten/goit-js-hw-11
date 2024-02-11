@@ -1,11 +1,11 @@
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f4f4f4;
+  background-color: #5e4b56;
   margin: 0;
   padding: 0;
 }
 .form-section {
-  background-color: lightblue;
+  background-color: #886d7d;
 }
 
 .search-form {
@@ -26,15 +26,15 @@ input {
 button {
   padding: 10px;
   font-size: 16px;
-  background-color: #007bff;
+  background-color: #5a4953;
   color: #fff;
-  border: 1px solid #007bff;
+  border: 1px solid #5a4953;
   border-radius: 5px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #382e34;
 }
 
 .gallery {
@@ -47,9 +47,10 @@ button:hover {
   width: 250px;
   margin: 10px;
   padding: 10px;
-  border: 1px solid #ddd;
+  background-color: #bfb0b9;
+  /* border: 1px solid #ddd; */
   border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease-in-out;
 }
 
